@@ -1,4 +1,4 @@
-# Frontend Mentor - Social proof section solution
+# Frontend Mentor - Social proof section
 
 Esta é a minha solução para o desafio [Social proof section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA).
 
