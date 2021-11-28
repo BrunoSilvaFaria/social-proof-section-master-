@@ -39,7 +39,7 @@ Foi proposto recriar o seguinte site, fazendo o mais semelhante possível, a par
 - [Atom](https://atom.io/) - Editor de texto
 - [Adobe Color](https://color.adobe.com/pt/create/color-wheel) - Paleta de cores
 - [FireFox](https://www.mozilla.org/pt-BR/firefox/new/) - Navegador utilizado para visualização e desenvolvimento do site
-- [SASS](https://sass-lang.com/)
+- [SASS](https://sass-lang.com/) - Pré-processador CSS
 
 
 ### O que eu aprendi:
