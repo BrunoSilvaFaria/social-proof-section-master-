@@ -100,5 +100,82 @@ $cor5 : #fff;
 
     }
   }
+}
 
+// === Media Query ===
+@media (min-width: 800px){
+  .section__main{
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin-top: 80px;
+  }
+  // === Section Main ===
+  .section__hero{
+    text-align: left;
+    height: 250px;
+    margin: 0;
+    width: 420px;
+    .title__main{
+      margin-bottom: 20px;
+      font-size: 45px;
+      line-height: 47px;
+      width: 400px;
+    }
+    .paragraph__main{
+      font-size: 14px;
+      line-height: 20px;
+      width: 450px;
+    }
+  }
+
+  // === Stars ===
+  .star__conteiner{
+    height: 60px;
+    width: 400px;
+    .star__conteiner__div{
+      display: flex;
+      align-items: center;
+      height: 60px;
+      .stars__icon{
+        margin-left: 20px;
+        img{
+          margin: 0;
+        }
+      }
+      .star__paragraph{
+        margin-left: 20px;
+      }
+    }
+  }
+  .stars__conteiner{
+    width: 460px;
+  }
+  .star__conteiner--1{
+    margin-right: 60px;
+  }
+  .star__conteiner--2{
+    margin-right: 30px;
+  }
+  .star__conteiner--3{
+    margin-left: 60px;
+  }
+}
+
+// === Section Relato ===
+.section__relatos__conteiner{
+  display: flex;
+  width: 80%;
+  margin: auto;
+}
+.section__relato_conteiner{
+  height: 250px;
+  width: 315px;
+}
+.section__relato_conteiner--2{
+  margin-top: 25px;
+}
+.section__relato_conteiner--3{
+  margin-top: 35px;
 }
